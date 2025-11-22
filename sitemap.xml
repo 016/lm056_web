@@ -37,6 +37,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://tool.lib00.com/en/tool/random-string-generator" />
   </url>
   <url>
+    <loc>https://tool.lib00.com/zh/tool/uuid-v4</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://tool.lib00.com/zh/tool/uuid-v4" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tool.lib00.com/en/tool/uuid-v4" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tool.lib00.com/en/tool/uuid-v4" />
+  </url>
+  <url>
+    <loc>https://tool.lib00.com/en/tool/uuid-v4</loc>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://tool.lib00.com/zh/tool/uuid-v4" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tool.lib00.com/en/tool/uuid-v4" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tool.lib00.com/en/tool/uuid-v4" />
+  </url>
+  <url>
     <loc>https://tool.lib00.com/zh/tool/case-converter</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>weekly</changefreq>
